@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMESchool.Core", "ACMESchool\ACMESchool.Core.csproj", "{6CDC7668-334E-4AA6-8559-5EF61FA3BB31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACMESchool.Test", "ACMESchool.Test\ACMESchool.Test.csproj", "{8B5828A6-504D-42A2-8420-4F1A348D83D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDC7668-334E-4AA6-8559-5EF61FA3BB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDC7668-334E-4AA6-8559-5EF61FA3BB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDC7668-334E-4AA6-8559-5EF61FA3BB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDC7668-334E-4AA6-8559-5EF61FA3BB31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5828A6-504D-42A2-8420-4F1A348D83D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5828A6-504D-42A2-8420-4F1A348D83D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5828A6-504D-42A2-8420-4F1A348D83D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5828A6-504D-42A2-8420-4F1A348D83D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {502F6F62-6EF2-4EF5-9E72-1A4093E8C59A}
+	EndGlobalSection
+EndGlobal
